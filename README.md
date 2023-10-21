@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 ### 💻Languages, Frameworks, Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,html,css,js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,nodejs)](https://skillicons.dev)
 
