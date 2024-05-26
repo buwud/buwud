@@ -20,3 +20,5 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=cs,dotnet,html,js,nodejs,go,vscode,visualstudio" />
   </a>
 </p>
+
+![snake gif](https://github.com/buwud/buwud/blob/output/github-contribution-grid-snake.gif)
